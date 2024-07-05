@@ -10,10 +10,10 @@ function App() {
 
   return (
     <>
-      <Header />
+      {/* <Header />
       <Blog />
       <Carousel />
-      <Footer />
+      <Footer /> */}
     </>
   );
 }
